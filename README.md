@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho com análise de dados BI
 - 🎓 Formado na Universidade Paulista UNIP em Ciência da Computação
-- 🌱 Estou estudando Python/Flask para Rest API | React Native
-- 📚 Conhecimento em Angular e Power BI
+- 🌱 Especializado em automação em Python e Rest API | React
+- 📚 Conhecimento em Office Avançado (VBA) e Power BI
 - 📫 Contate-me no email: linenker.psantos@gmail.com
 
 <div align="center">
